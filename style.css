@@ -1,0 +1,10 @@
+img {
+transition: transform .2s;
+border: 10px solid #00ccff;    
+}
+img:hover {
+transform: scale(0.9);    
+}
+body {
+background-color: aqua;    
+}
